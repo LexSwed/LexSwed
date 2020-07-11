@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/lexswed/"><img src="static/linkedin.svg" height="50px"/></a>
-<a href="https://twitter.com/lexswed"><img src="static/twitter.svg" height="50px"/></a>
-<a href="https://dev.to/lexswed"><img src="static/devto.svg" height="50px"/></a>
+<a href="https://www.linkedin.com/in/lexswed/"><img src="https://raw.githubusercontent.com/LexSwed/LexSwed/master/static/linkedin.svg" height="50px"/></a>
+<a href="https://twitter.com/lexswed"><img src="https://raw.githubusercontent.com/LexSwed/LexSwed/master/static/twitter.svg" height="50px"/></a>
+<a href="https://dev.to/lexswed"><img src="https://raw.githubusercontent.com/LexSwed/LexSwed/master/static/devto.svg" height="50px"/></a>
 </p>
 
 # Dailies
