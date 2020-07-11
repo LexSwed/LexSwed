@@ -7,14 +7,23 @@
 # Dailies
 
 ✅ React
+
 ✅ Vue.js
+
 ✅ CSS-in-JS
+
 ✅ A11Y
+
 ✅ TypeScript
+
 ✅ Flutter/Dart
+
 ✅ Node.js
+
 ✅ GraphQL
+
 ✅ Docker
+
 ✅ Serverless
 
 # Education
