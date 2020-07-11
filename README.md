@@ -6,25 +6,16 @@
 
 # Dailies
 
-✅ React
-
-✅ Vue.js
-
-✅ CSS-in-JS
-
-✅ A11Y
-
-✅ TypeScript
-
-✅ Flutter/Dart
-
-✅ Node.js
-
-✅ GraphQL
-
-✅ Docker
-
-✅ Serverless
+- [x] React
+- [x] Vue.js
+- [x] CSS-in-JS
+- [x] A11Y
+- [x] TypeScript
+- [x] Flutter/Dart
+- [x] Node.js
+- [x] GraphQL
+- [x] Docker
+- [x] Serverless
 
 # Education
 
