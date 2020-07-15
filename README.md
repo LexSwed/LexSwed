@@ -4,15 +4,20 @@
 <a href="https://dev.to/lexswed"><img src="https://raw.githubusercontent.com/LexSwed/LexSwed/master/static/devto.svg" height="50px"/></a>
 </p>
 
-# Dailies
+# Tech
 
-- [x] React
-- [x] Vue.js
+## Daily:
+
+- [x] React and Co
 - [x] CSS-in-JS
 - [x] A11Y
 - [x] TypeScript
-- [x] Flutter/Dart
 - [x] Node.js
+
+## Used heavily
+
+- [x] Vue.js and Co
+- [x] Flutter/Dart
 - [x] GraphQL
 - [x] Docker
 - [x] Serverless
