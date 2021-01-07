@@ -32,6 +32,6 @@
 
 ## Master's of Software Engineering
 
-##### University of Tart (Estonia) (2017-2019)
+##### University of Tartu (Estonia) (2017-2019)
 
 ##### Thesis: Scaling Up a Software Product | GPA: 4.4
