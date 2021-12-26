@@ -1,37 +1,43 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/lexswed/"><img src="https://raw.githubusercontent.com/LexSwed/LexSwed/master/static/linkedin.svg" height="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/lexswed"><img src="https://raw.githubusercontent.com/LexSwed/LexSwed/master/static/twitter.svg" height="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/lexswed"><img src="https://raw.githubusercontent.com/LexSwed/LexSwed/master/static/devto.svg" height="50px"/></a>
+    <a href="https://www.linkedin.com/in/lexswed/">
+        <picture>
+            <source srcset="static/linkedin-darkmode.svg" height="50px" media="(prefers-color-scheme: dark)" />
+            <img src="static/linkedin.svg" color="white" height="50px" />
+        </picture>
+    </a>
+    <span style="padding-right: 20px"></span>
+    <a href="https://twitter.com/lexswed">
+        <picture>
+            <source srcset="static/twitter-darkmode.svg" height="50px" media="(prefers-color-scheme: dark)" />
+            <img src="static/twitter.svg" height="50px" />
+        </picture>
+    </a>
+        <span style="padding-right: 20px"></span>
+    <a href="https://dev.to/lexswed">
+        <picture>
+            <source srcset="static/devto-darkmode.svg" height="50px" media="(prefers-color-scheme: dark)" />
+            <img src="static/devto.svg" height="50px" />
+        </picture>
+    </a>
 </p>
+
+Software Engineer with 5+ years of experience, focusing on user experience side of things.
+Working with cross-functional teams for improving KPIs to make product people, or as a core engineer,
+developing technologies, libraries and providing support to other teams that work on the product.
 
 # Tech
 
-## Daily:
-
-- [x] React and Co
-- [x] CSS-in-JS
+- [x] React and Co (can do Vue and Svelte if there's a reason)
+- [x] CSS & CSS-in-JS
 - [x] A11Y
 - [x] TypeScript
-- [x] Node.js
-
-## Used heavily
-
-- [x] Vue.js and Co
-- [x] Flutter/Dart
 - [x] GraphQL
-- [x] Docker
-- [x] Serverless
+- [x] Node.js
+- [x] `jest` and `cypress`
+- [x] Serverless and Docker (to the degree required)
 
 # Education
-
-## Bachelor's of Applied Math
-
-##### Volodymyr Dahl East Ukrainian National University (2012-2016)
-
-##### Thesis: Applying Mathematic modeling on a web version of Fantasy Football game | GPA: 4.5
 
 ## Master's of Software Engineering
 
 ##### University of Tartu (Estonia) (2017-2019)
-
-##### Thesis: Scaling Up a Software Product | GPA: 4.4
