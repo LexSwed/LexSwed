@@ -8,11 +8,11 @@ Working with cross-functional teams for improving KPIs to make product people ha
   <a href="https://www.linkedin.com/in/lexswed/">
     <img src="static/linkedin.png" height="50px" />
   </a>
-  <span style="padding-right: 20px"></span>
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://twitter.com/lexswed">
     <img src="static/twitter.svg" height="50px" />
   </a>
-  <span style="padding-right: 20px"></span>
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://dev.to/lexswed">
     <img src="static/dev-rainbow.svg" height="50px" />
   </a>
