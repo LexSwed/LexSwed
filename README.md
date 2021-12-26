@@ -1,29 +1,22 @@
-<p align="center">
-    <a href="https://www.linkedin.com/in/lexswed/">
-        <picture>
-            <source srcset="static/linkedin-darkmode.svg" height="50px" media="(prefers-color-scheme: dark)" />
-            <img src="static/linkedin.svg" color="white" height="50px" />
-        </picture>
-    </a>
-    <span style="padding-right: 20px"></span>
-    <a href="https://twitter.com/lexswed">
-        <picture>
-            <source srcset="static/twitter-darkmode.svg" height="50px" media="(prefers-color-scheme: dark)" />
-            <img src="static/twitter.svg" height="50px" />
-        </picture>
-    </a>
-        <span style="padding-right: 20px"></span>
-    <a href="https://dev.to/lexswed">
-        <picture>
-            <source srcset="static/devto-darkmode.svg" height="50px" media="(prefers-color-scheme: dark)" />
-            <img src="static/devto.svg" height="50px" />
-        </picture>
-    </a>
-</p>
+# Hi!
 
-Software Engineer with 5+ years of experience, focusing on user experience side of things.
-Working with cross-functional teams for improving KPIs to make product people, or as a core engineer,
-developing technologies, libraries and providing support to other teams that work on the product.
+I am a Software Engineer with 5+ years of experience, focusing on user experience side of things.
+
+Working with cross-functional teams for improving KPIs to make product people happier, or as a core engineer, developing technologies, libraries and providing support to other teams that work on the product.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lexswed/">
+    <img src="static/linkedin.png" height="50px" />
+  </a>
+  <span style="padding-right: 20px"></span>
+  <a href="https://twitter.com/lexswed">
+    <img src="static/twitter.svg" height="50px" />
+  </a>
+  <span style="padding-right: 20px"></span>
+  <a href="https://dev.to/lexswed">
+    <img src="static/dev-rainbow.svg" height="50px" />
+  </a>
+</p>
 
 # Tech
 
