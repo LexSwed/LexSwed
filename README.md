@@ -49,7 +49,7 @@ Working with cross-functional teams for improving KPIs to make product people ha
   - Migrated internal packages to own registry
   - Implemented various platform performance improvements
 - **Skyscanner (Jun 2021 - now) Barcelona, Spain**
-  - Developed first MVP for ads diversification on flights search view
+  - Developed first MVP for ads diversification on flights search view, gluing code of many teams in something that brings value
 
 # Education
 
