@@ -38,18 +38,20 @@ Working with cross-functional teams for improving KPIs to make product people ha
 
 # Experience
 
-- **Smiddle (Jan 2017 - Feb 2018) Kyiv, Ukraine**
-  - Helped migrating set of jQuery applications to React
-  - Migrated Dolphi canvas-heavy application to be web based
-- **Pipedrive (Feb 2018 - Feb 2020) Tartu, Estonia**
-  - Decoupled billing subsystem views from a monolith to own micro-frontend
-  - Developed MVP for cross-platform in-app action creation from mobile voice notes
+- **Skyscanner (Jun 2021 - now) Barcelona, Spain**
+  - Developed first MVP for ads diversification on flights search view, gluing code of many teams into something that brings value
 - **Typeform (Mar 2020 - Jun 2021) Barcelona, Spain**
   - Added accessibility to the main component library
   - Migrated internal packages to own registry
   - Implemented various platform performance improvements
-- **Skyscanner (Jun 2021 - now) Barcelona, Spain**
-  - Developed first MVP for ads diversification on flights search view, gluing code of many teams into something that brings value
+- **Pipedrive (Feb 2018 - Feb 2020) Tartu, Estonia**
+  - Decoupled billing subsystem views from a monolith to own micro-frontend
+  - Developed internal product development and processes tool for monitoring the health of teams, tracking missions progress and teams roadmaps
+  - Cross-platform implementation of Voice memo transformation to an actual entitity in Pipedrive ecosystem
+- **Smiddle (Jan 2017 - Feb 2018) Kyiv, Ukraine**
+  - Helped migrating set of jQuery applications to React
+  - Migrated Dolphi canvas-heavy application to be web based
+
 
 # Education
 
