@@ -47,7 +47,8 @@ Working with cross-functional teams for improving KPIs to make product people ha
 - **Pipedrive (Feb 2018 - Feb 2020) Tartu, Estonia**
   - Decoupled billing subsystem views from a monolith to own micro-frontend
   - Developed internal product development and processes tool for monitoring the health of teams, tracking missions progress and teams roadmaps
-  - Cross-platform implementation of Voice memo transformation to an actual entitity in Pipedrive ecosystem
+  - Cross-platform MVP of Voice memo transformation to an actual entity in Pipedrive ecosystem
+  - Worked on GraphQL Federation implementation, solving requests waterfall on the BE services, and helping accelerate other products
 - **Smiddle (Jan 2017 - Feb 2018) Kyiv, Ukraine**
   - Helped migrating set of jQuery applications to React
   - Migrated Dolphi canvas-heavy application to be web based
