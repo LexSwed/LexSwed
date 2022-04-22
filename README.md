@@ -21,6 +21,7 @@ Working with cross-functional teams for improving KPIs to make product people ha
 # Skills
 
 - [x] Researching, collaborating with Product Owner/Manager and/or designer and writing Product Requirements document following company standards or (my favorite) like [this](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
+- [x] Finishing the call quickly, without awkward staring at each other
 - [x] Help adopting new engineering standards
 - [x] Take part in recruitment process through technical interviews and onboarding
 - [x] Iterate on Agile ceremonies and processes to bring more productivity to the team
