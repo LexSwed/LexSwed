@@ -1,8 +1,6 @@
 # Hi!
 
-I am a Software Engineer with 5+ years of experience, focusing on user experience side of things.
-
-Working with cross-functional teams for improving KPIs to make product people happier, or as a core engineer, developing technologies, libraries and providing support to other teams that work on the product.
+I am a Software Engineer with 5+ years of experience building web products.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lexswed/">
@@ -18,33 +16,12 @@ Working with cross-functional teams for improving KPIs to make product people ha
   </a>
 </p>
 
-# Skills
-
-- [x] Researching, collaborating with Product Owner/Manager and/or designer and writing Product Requirements document following company standards or (my favorite) like [this](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
-- [x] Finishing the call quickly, without awkward staring at each other
-- [x] Help adopting new engineering standards
-- [x] Take part in recruitment process through technical interviews and onboarding
-- [x] Iterate on Agile ceremonies and processes to bring more productivity to the team
-
-# Tech
-
-- [x] React and Co (can do Vue and Svelte if there's a reason)
-- [x] CSS & CSS-in-JS
-- [x] A11Y
-- [x] TypeScript
-- [x] GraphQL
-- [x] Node.js
-- [x] `jest` and `cypress`
-- [x] Serverless and Docker (to the degree required)
-
 # Experience
 
 - **Skyscanner (Jun 2021 - now) Barcelona, Spain**
-  - Developed first MVP for ads diversification on flights search view, gluing code of many teams into something that brings value
+  - Part of Ads and Data team. Led projects for optimizing ads revenue through new funnels, placement and targeting improvements. Simplification and consolidation of existing products across codebases.
 - **Typeform (Mar 2020 - Jun 2021) Barcelona, Spain**
-  - Added accessibility to the main component library
-  - Migrated internal packages to own registry
-  - Implemented various platform performance improvements
+  - Was a part of the Core team, enabling engineers with better infra and tooling. Worked on accessibility improvements of the Design System, web vitals metrics and general tooling for better web app performance.
 - **Pipedrive (Feb 2018 - Feb 2020) Tartu, Estonia**
   - Decoupled billing subsystem views from a monolith to own micro-frontend
   - Developed internal product development and processes tool for monitoring the health of teams, tracking missions progress and teams roadmaps
