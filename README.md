@@ -1,4 +1,4 @@
-# Hi!
+## Hi!
 
 I am a Software Engineer with 5+ years of experience building web products.
 
@@ -16,7 +16,7 @@ I am a Software Engineer with 5+ years of experience building web products.
   </a>
 </p>
 
-# Experience
+## Experience
 
 - **Skyscanner (Jun 2021 - now) Barcelona, Spain**
   - Part of Ads and Data team. Led projects for optimizing ads revenue through new funnels, placement and targeting improvements. Simplification and consolidation of existing products across codebases.
@@ -32,8 +32,8 @@ I am a Software Engineer with 5+ years of experience building web products.
   - Migrated Dolphi canvas-heavy application to be web based
 
 
-# Education
+## Education
 
-## Master's of Software Engineering
+### Master's degree in Software Engineering
 
-##### University of Tartu (Estonia) (2017-2019)
+University of Tartu (Estonia) (2017-2019)
