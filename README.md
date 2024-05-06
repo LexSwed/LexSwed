@@ -1,6 +1,6 @@
 ## Hi!
 
-I am a Software Engineer with 5+ years of experience building web products.
+I am a Software Engineer with 7 years of experience building web products.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lexswed/">
@@ -19,7 +19,7 @@ I am a Software Engineer with 5+ years of experience building web products.
 ## Experience
 
 - **Skyscanner (Jun 2021 - now) Barcelona, Spain**
-  - Part of Ads and Data team. Led projects for optimizing ads revenue through new funnels, placement and targeting improvements. Simplification and consolidation of existing products across codebases.
+  - Part of Ads and Data team. Working on optimizing cross-vertical revenue through new advertising funnels and targeting improvements.
 - **Typeform (Mar 2020 - Jun 2021) Barcelona, Spain**
   - Was a part of the Core team, enabling engineers with better infra and tooling. Worked on accessibility improvements of the Design System, web vitals metrics and general tooling for better web app performance.
 - **Pipedrive (Feb 2018 - Feb 2020) Tartu, Estonia**
