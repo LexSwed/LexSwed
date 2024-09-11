@@ -1,6 +1,6 @@
 ## Hi!
 
-I am a Software Engineer with 7 years of experience building web products.
+I'm doing things with HTML and CSS (and sometimes JS).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lexswed/">
