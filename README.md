@@ -3,15 +3,15 @@
 I'm doing things with HTML and CSS (and sometimes JS).
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lexswed/">
+  <a href="https://www.linkedin.com/in/alvechy/">
     <img src="static/linkedin.png" height="50px" alt="LinkedIn profile" />
   </a>
   &nbsp &nbsp &nbsp &nbsp
-  <a href="https://twitter.com/lexswed">
+  <a href="https://twitter.com/alvechy">
     <img src="static/twitter.svg" height="50px" alt="Twitter profile" />
   </a>
   &nbsp &nbsp &nbsp &nbsp
-  <a href="https://dev.to/lexswed">
+  <a href="https://dev.to/alvechy">
     <img src="static/dev-rainbow.svg" height="50px" alt="dev.to profile" />
   </a>
 </p>
